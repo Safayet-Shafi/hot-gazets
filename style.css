@@ -1,0 +1,35 @@
+h1{
+    color: black;
+}
+p{
+    color: black;
+}
+button{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+h2{
+    color: black;
+    text-align: center;
+}
+.card-text{
+    text-shadow: rgb(99, 97, 94);
+    text-align: center;
+
+}
+.phone{
+
+    margin-left: 35%;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+footer{
+    color: black;
+    text-align: center;
+}
